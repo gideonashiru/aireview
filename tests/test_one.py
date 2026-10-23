@@ -1,5 +1,5 @@
-def c_square(cb):
-    return cb * cb
+def c_square(c):
+    return c * c
 
 
 def test_c_square():
